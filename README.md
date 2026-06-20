@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rodina Ahmed</h1>
-<h3 align="center">A passionate Junior AI Engineer 🚀</h3>
+<h3 align="center">Junior AI Engineer | RAG & AI Agents Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Agentic%20Systems-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Exploring-RAG%20%26%20AI%20Agents-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-green?style=for-the-badge">
 </p>
 
-- 🌱 I’m currently learning **Agentic Systems & Advanced RAG**
+- 🌱 I’m currently specializing in **Agentic Workflows & Advanced RAG**
+- 🎓 **Biomedical Engineering** student at Minya University (Class of 2025)
 - 📫 Reach me at: **rodinaahmed30@gmail.com**
-- 🎓 **Bachelor of Biomedical Engineering** 
 ---
 
 ### 📱 Connect with me:
